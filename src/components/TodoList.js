@@ -16,7 +16,7 @@ function TodoList() {
             <Todoitem text="프로젝트 생성하기" done={true}></Todoitem>
             <Todoitem text="프로젝트 생성하기" done={true}></Todoitem>
             <Todoitem text="프로젝트 생성하기" done={false}></Todoitem>
-            <Todoitem text="프로젝트 생성하기" done={flase}></Todoitem>
+            <Todoitem text="프로젝트 생성하기" done={false}></Todoitem>
         </TodoListBlock>
     )
 }

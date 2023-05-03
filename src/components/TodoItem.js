@@ -70,4 +70,4 @@ function TodoItem({id, done, text}){
     )
 }
 
-export default Todoitem;
+export default TodoItem;
